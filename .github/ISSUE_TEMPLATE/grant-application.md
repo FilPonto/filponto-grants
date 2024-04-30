@@ -1,5 +1,5 @@
 ---
-name: Grant Application
+name: FilPonto.io Grant Application
 about: Submit a Filecoin infrastructure or technical support grant application
 title: ''
 labels: ''
